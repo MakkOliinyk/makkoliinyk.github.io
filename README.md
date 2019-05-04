@@ -35,7 +35,10 @@ console.log(a);
 cupiditate nesciunt corrupti laudantium, molestias ipsum nihil illo.
 Assumenda omnis modi labore earum.
 
-[I'm a link](https://google.com)
+[I'm a link](https://google.com)  
 [I'm a second link][1]
 
 [1]: https://google.com
+
+![I'm a dog](https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/field_blog_entry_images/2018-02/vicious_dog_0.png?itok=nsghKOHs)
+
