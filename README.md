@@ -29,5 +29,7 @@ console.log(a);
 - Unordered second
 + Unordered third
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit.  
-Porro pariatur nam, hic iusto, mollitia fugiat ipsam reiciendis cupiditate nesciunt corrupti laudantium, molestias ipsum nihil illo. Assumenda omnis modi labore earum.
+-Lorem ipsum dolor sit, amet consectetur adipisicing elit.-   
+-Porro pariatur nam, hic iusto, mollitia fugiat ipsam reiciendis-
+-cupiditate nesciunt corrupti laudantium, molestias ipsum nihil illo.-
+-Assumenda omnis modi labore earum.-
