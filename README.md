@@ -6,8 +6,12 @@
 ###### H6
 
 *italic*
+_italic_
 
 **bold**
+__bold__
+
+**test test _test_**
 
 ~~crossed~~
 
